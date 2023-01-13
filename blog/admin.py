@@ -1,5 +1,6 @@
 from django.contrib import admin
 
+
 class BlogAdminArea(admin.AdminSite):
     site_header = 'Blog Admin Area'
 
